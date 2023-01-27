@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/Dino-Game/static/css/main.c1753589.css",
+    "main.js": "/Dino-Game/static/js/main.9c3b1ff1.js",
+    "static/js/787.1e7940f7.chunk.js": "/Dino-Game/static/js/787.1e7940f7.chunk.js",
+    "static/media/desert_out.gif": "/Dino-Game/static/media/desert_out.13c692249ff8e4d68f8d.gif",
+    "static/media/herobg.png": "/Dino-Game/static/media/herobg.4c19c3759ad73f4f548f.png",
+    "static/media/tallbuilding.png": "/Dino-Game/static/media/tallbuilding.f63bda75cf6a483a9983.png",
+    "static/media/logo.svg": "/Dino-Game/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Dino-Game/index.html",
+    "main.c1753589.css.map": "/Dino-Game/static/css/main.c1753589.css.map",
+    "main.9c3b1ff1.js.map": "/Dino-Game/static/js/main.9c3b1ff1.js.map",
+    "787.1e7940f7.chunk.js.map": "/Dino-Game/static/js/787.1e7940f7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1753589.css",
+    "static/js/main.9c3b1ff1.js"
+  ]
+}
